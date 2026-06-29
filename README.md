@@ -60,3 +60,13 @@ Always learning, building, and exploring new technologies.
 - Email: (Add your Email)
 
 ⭐ Thanks for visiting my profile!
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ManavKumar07&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavKumar07&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ManavKumar07&theme=tokyonight&hide_border=true" />
+</p>
