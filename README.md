@@ -92,10 +92,7 @@ Always learning, building, and exploring new technologies.
 
 🔐 Password Generator (Python)
 
-🌐 Port Scanner
+🌐 Secure Password Manager
 
-🔒 File Encryptor
+** python mini projects
 
-🐧 Linux Automation Scripts
-
-💻 C++ Mini Projects
