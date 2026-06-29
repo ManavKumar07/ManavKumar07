@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manav Kumar</h1>
 
 <h3 align="center">Cyber Security Student | Python Learner | C/C++ Programmer</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cyber+Security+Student;Python+Learner;C%2FC%2B%2B+Programmer;Linux+Enthusiast;Always+Learning..." />
+</p>
 <p align="center">
 Passionate about Cyber Security, Ethical Hacking, and Python Development.
 Always learning, building, and exploring new technologies.
