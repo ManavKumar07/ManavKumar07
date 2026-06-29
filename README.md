@@ -29,7 +29,9 @@ Always learning, building, and exploring new technologies.
 - Linux
 - Networking Basics
 - HTML & CSS (Basic)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,bash,git,github,vscode" />
+</p>
 ---
 
 ## 📚 Currently Learning
