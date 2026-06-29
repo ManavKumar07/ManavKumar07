@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Manav Kumar</h1>
 
-<!--
-**ManavKumar07/ManavKumar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Cyber Security Student | Python Learner | C/C++ Programmer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about Cyber Security, Ethical Hacking, and Python Development.
+Always learning, building, and exploring new technologies.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Cyber Security Student
+- 🐍 Currently learning Python
+- 💻 Comfortable with C & C++
+- 🔐 Interested in Ethical Hacking & Network Security
+- 🌱 Learning Linux, Git, and Security Tools
+- 🎯 Goal: Become a Cyber Security Professional
+
+---
+
+## 🛠️ Skills
+
+- Python (Learning)
+- C
+- C++
+- Git & GitHub
+- Linux
+- Networking Basics
+- HTML & CSS (Basic)
+
+---
+
+## 📚 Currently Learning
+
+- Python Programming
+- Cyber Security Fundamentals
+- Linux
+- Git & GitHub
+
+---
+
+## 🎯 Future Goals
+
+- Build Cyber Security Projects
+- Learn Penetration Testing
+- Explore Malware Analysis
+- Contribute to Open Source
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: (Add your LinkedIn URL)
+- Email: (Add your Email)
+
+⭐ Thanks for visiting my profile!
