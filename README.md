@@ -53,13 +53,6 @@ Always learning, building, and exploring new technologies.
 - Contribute to Open Source
 
 ---
-
-## 📫 Connect with Me
-
-- LinkedIn: (Add your LinkedIn URL)
-- Email: (Add your Email)
-
-⭐ Thanks for visiting my profile!
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -70,3 +63,39 @@ Always learning, building, and exploring new technologies.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ManavKumar07&theme=tokyonight&hide_border=true" />
 </p>
+<h2 align="center">👀 Profile Views</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ManavKumar07&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ManavKumar07&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+<h2 align="center">📫 Connect with Me</h2>
+
+<p align="center">
+<a href="https://github.com/ManavKumar07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+## 🚀 Featured Projects
+
+🔐 Password Generator (Python)
+
+🌐 Port Scanner
+
+🔒 File Encryptor
+
+🐧 Linux Automation Scripts
+
+💻 C++ Mini Projects
